@@ -19,7 +19,7 @@ Only the top 3 are written below.
 ```
 A first-time importer budgets $9,800 for a furniture order.
 
-It cost $11,025.
+It ends up costing $11,025.
 
 Nothing went wrong. They just don't know the formula customs uses:
 
